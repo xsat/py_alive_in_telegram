@@ -8,7 +8,7 @@ Send an alive message to your Telegram chat or channel every minute.
 ### Create a virtual environment
 
 ```sh
-py -m venv venv
+python3 -m venv venv
 ```
 
 ### Activate the virtual environment
