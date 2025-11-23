@@ -45,7 +45,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```sh
-py .\send_to_telegram.py
+python3 .\send_to_telegram.py
 ```
 
 ## Results
